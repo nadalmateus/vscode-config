@@ -1,0 +1,48 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "[jsonc]": {},
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.dragAndDrop": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "explorer.compactFolders": false,
+    "workbench.preferredHighContrastColorTheme": "Default Dark+",
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.labelFormat": "short",
+    "window.autoDetectHighContrast": false,
+    "window.restoreFullscreen": true,
+    "update.mode": "start",
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.size": "fit",
+    "editor.quickSuggestionsDelay": 1,
+    "editor.suggest.maxVisibleSuggestions": 15,
+    "files.autoGuessEncoding": true,
+    "files.insertFinalNewline": true,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
