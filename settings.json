@@ -1,7 +1,6 @@
 {
     "explorer.compactFolders": false,
-    "editor.renderLineHighlight": "gutter",
-    "workbench.editor.labelFormat": "medium",
+    "workbench.editor.labelFormat": "short",
     "javascript.updateImportsOnFileMove.enabled": "never",
     "typescript.updateImportsOnFileMove.enabled": "never",
     "extensions.ignoreRecommendations": true,
@@ -38,5 +37,7 @@
         }
     },
     "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
-    "workbench.colorTheme": "Omni"
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.menuBarVisibility": "toggle",
 }
