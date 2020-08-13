@@ -14,7 +14,7 @@
     ],
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
-    "editor.fontSize": 13.5,
+    "editor.fontSize": 13.3,
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": true,
     "workbench.list.smoothScrolling": true,
