@@ -1,3 +1,6 @@
+## Config
+
+```
 
 {
     "explorer.compactFolders": false,
@@ -48,3 +51,6 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "window.menuBarVisibility": "toggle",
 }
+
+```
+
