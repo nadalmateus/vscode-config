@@ -1,9 +1,11 @@
+```json
 {  
     "editor.tabSize": 2,
     "editor.fontSize": 13.7,
     "editor.fontFamily": "Fira Code Light",
     "editor.fontLigatures": true,
-    
+  
+  
     "explorer.compactFolders": false,
     "editor.renderLineHighlight": "all",
     "workbench.editor.labelFormat": "default",
@@ -43,3 +45,4 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
 
   }
+```
