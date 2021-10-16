@@ -1,7 +1,7 @@
 {
   "editor.fontFamily": "Cascadia Code",
   "editor.fontWeight": "350",
-  "editor.fontSize": 15.5,
+  "editor.fontSize": 15,
   "editor.fontLigatures": true,
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": true,
@@ -10,16 +10,29 @@
   "editor.formatOnSave": true,
   "editor.dragAndDrop": false,
   "editor.bracketPairColorization.enabled": true,
+  "editor.inlineSuggest.enabled": true,
   "explorer.confirmDelete": false,
   "explorer.compactFolders": false,
   "workbench.iconTheme": "vscode-icons",
   "workbench.tree.renderIndentGuides": "always",
   "workbench.editor.labelFormat": "default",
   "workbench.list.smoothScrolling": true,
+  "omnisharp.autoStart": true,
   "omnisharp.enableEditorConfigSupport": true,
   "omnisharp.enableImportCompletion": true,
+  "omnisharp.enableAsyncCompletion": true,
+  "omnisharp.enableRoslynAnalyzers": true,
   "editor.rulers": [
     80,
     120
   ],
+  "csharp.semanticHighlighting.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
 }
